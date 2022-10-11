@@ -13,8 +13,8 @@ Last year I finished the higher cycle of multiplatform application development a
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  &nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  &nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  &nbsp;
-<a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="spring" width="40" height="40"/> </a>  &nbsp;
-<a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" alt="spring" width="40" height="40"/> </a>  &nbsp;
+<a href="https://www.json.org/json-es.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="spring" width="50" height="40"/> </a>  &nbsp;
+<a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" alt="spring" width="70" height="40"/> </a>  &nbsp;
 </p>
 
 <h4 align="left">FrameWorks, Environments and Libraries:</h4>
