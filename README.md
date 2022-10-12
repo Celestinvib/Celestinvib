@@ -51,7 +51,7 @@ Last year I finished the higher cycle of multiplatform application development a
 </p>
 
 ### Do you want to know more about me? 
-* Check out my website -> https://celestinvib.github.io/CelestinWebsite/views (In development) <br>
+* Check out my website -> https://celestinvib.github.io/CelestinWebsite <br>
 ### Want to contact me? 
 
 * <a href="https://www.linkedin.com/in/celestin-kifuka-aparicio/" target="_blank" rel="noreferrer"> Linkedin  </a>
